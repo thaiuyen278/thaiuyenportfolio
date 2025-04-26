@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#pinky
+{
+	width: 100%;	
+	background-image: url( "../images/62370.jpg");
+	background-repeat: no-repeat; background-size: cover;}
+	#pinky .overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.05);
+    z-index: 1;
+}
+
+#testimonial
+{
+	width: 100%;	
+	background-image:url("../images/the-luxe.jpg");
+	background-repeat: no-repeat; background-size: cover
+}
